@@ -1,4 +1,4 @@
 # git_test
 My first Github repo.
-Hello Odin!
+Hello Edmond!
 Changed my push process.
